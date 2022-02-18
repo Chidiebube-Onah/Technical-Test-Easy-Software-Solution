@@ -1,0 +1,17 @@
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.BLL.deps.json
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.BLL.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\bin\Debug\net5.0\ref\TechnicalTest.BLL.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.BLL.pdb
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.DAL.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.Models.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.DAL.pdb
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.Models.pdb
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.BLL.csproj.AssemblyReference.cache
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.BLL.AssemblyInfoInputs.cache
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.BLL.AssemblyInfo.cs
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.BLL.csproj.CopyComplete
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.BLL.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\obj\Debug\net5.0\ref\TechnicalTest.BLL.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\BLL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.BLL.pdb

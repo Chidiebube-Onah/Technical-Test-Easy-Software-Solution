@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\TechnicalTest.Web\\TechnicalTest.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\BLL.TechnicalTest\\TechnicalTest.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\BLL.TechnicalTest\\TechnicalTest.BLL.csproj",
+        "projectName": "TechnicalTest.BLL",
+        "projectPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\BLL.TechnicalTest\\TechnicalTest.BLL.csproj",
+        "packagesPath": "C:\\Users\\Chidiebube\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\BLL.TechnicalTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Chidiebube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\DAL.TechnicalTest\\TechnicalTest.DAL.csproj": {
+                "projectPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\DAL.TechnicalTest\\TechnicalTest.DAL.csproj"
+              },
+              "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\Models.TechnicalTest\\TechnicalTest.Models.csproj": {
+                "projectPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\Models.TechnicalTest\\TechnicalTest.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.Dependencyinjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Automapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\DAL.TechnicalTest\\TechnicalTest.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\DAL.TechnicalTest\\TechnicalTest.DAL.csproj",
+        "projectName": "TechnicalTest.DAL",
+        "projectPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\DAL.TechnicalTest\\TechnicalTest.DAL.csproj",
+        "packagesPath": "C:\\Users\\Chidiebube\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\DAL.TechnicalTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Chidiebube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\Models.TechnicalTest\\TechnicalTest.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\Models.TechnicalTest\\TechnicalTest.Models.csproj",
+        "projectName": "TechnicalTest.Models",
+        "projectPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\Models.TechnicalTest\\TechnicalTest.Models.csproj",
+        "packagesPath": "C:\\Users\\Chidiebube\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\Models.TechnicalTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Chidiebube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\TechnicalTest.Web\\TechnicalTest.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\TechnicalTest.Web\\TechnicalTest.Web.csproj",
+        "projectName": "TechnicalTest.Web",
+        "projectPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\TechnicalTest.Web\\TechnicalTest.Web.csproj",
+        "packagesPath": "C:\\Users\\Chidiebube\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\TechnicalTest.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Chidiebube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\BLL.TechnicalTest\\TechnicalTest.BLL.csproj": {
+                "projectPath": "C:\\Users\\Chidiebube\\source\\repos\\TechnicalTest\\BLL.TechnicalTest\\TechnicalTest.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "datatables.net-bs4": {
+              "target": "Package",
+              "version": "[1.11.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

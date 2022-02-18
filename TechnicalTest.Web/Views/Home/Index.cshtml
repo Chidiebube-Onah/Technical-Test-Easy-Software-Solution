@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Patient Visits</h1>
+    @if (TempData["ErrMsg"] is not null)
+    {
+        <p class="text-danger">@TempData["ErrMsg"]</p>
+    }
+</div>
+
+<table id="visits" class="table table-striped table-bordered" style="width:100%">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>CardNo</th>
+        <th>CameToSee</th>
+        <th>Reason</th>
+        <th>SignIn</th>
+        <th>SignOut</th>
+        <th>Action</th>
+
+    </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+    <tfoot>
+    <tr>
+        <th>Name</th>
+        <th>CardNo</th>
+        <th>CameToSee</th>
+        <th>Reason</th>
+        <th>SignIn</th>
+        <th>SignOut</th>
+        <th>Action</th>
+    </tr>
+    </tfoot>
+</table>

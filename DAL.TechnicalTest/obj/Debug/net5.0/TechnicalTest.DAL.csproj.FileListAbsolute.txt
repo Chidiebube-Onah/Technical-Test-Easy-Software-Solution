@@ -1,0 +1,15 @@
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.DAL.deps.json
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.DAL.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\bin\Debug\net5.0\ref\TechnicalTest.DAL.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.DAL.pdb
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.DAL.csproj.AssemblyReference.cache
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.DAL.AssemblyInfoInputs.cache
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.DAL.AssemblyInfo.cs
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.DAL.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\obj\Debug\net5.0\ref\TechnicalTest.DAL.dll
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.DAL.pdb
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.DAL.runtimeconfig.json
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\bin\Debug\net5.0\TechnicalTest.DAL.runtimeconfig.dev.json
+C:\Users\Chidiebube\source\repos\TechnicalTest\DAL.TechnicalTest\obj\Debug\net5.0\TechnicalTest.DAL.genruntimeconfig.cache
